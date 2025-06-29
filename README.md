@@ -47,9 +47,9 @@ A simple, interactive unit converter that allows users to convert between metric
 
 | Metric ↔ Imperial | Conversion Rate |
 |-------------------|-----------------|
-| 1 meter = 3.281 feet | |
-| 1 liter = 0.264 gallons | |
-| 1 kilogram = 2.204 pounds | |
+| 1 meter | 3.281 feet |
+| 1 liter | 0.264 gallons |
+| 1 kilogram | 2.204 pounds |
 
 ## 🧠 Example
 
